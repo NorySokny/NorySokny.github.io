@@ -10,10 +10,14 @@ const AdminLayout = () => {
         <header>
             <Navbar />
         </header>
-        <Sidebar />
-        <main>
-            <Outlet></Outlet>
-        </main>
+        <div className="admin-container">
+            <div className="sidebar">
+                <Sidebar />
+            </div>
+            <main className='content'>
+                <Outlet></Outlet>
+            </main>
+        </div>
         <Footer/>
     </>)
 }
