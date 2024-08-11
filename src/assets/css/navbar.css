@@ -1,0 +1,20 @@
+.narbar {
+    background-color:  #00d4ff;
+    display: flex;
+}
+.nav {
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav .nav-item {
+    display: inline;
+    padding: 15px 20px;
+}
+
+.nav .nav-item .nav-link {
+    text-decoration: none;
+}
