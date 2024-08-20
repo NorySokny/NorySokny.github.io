@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/NorySokny.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/NorySokny.github.io/static/js/main.c451e7ea.js",
+    "main.css": "/NorySokny.github.io/static/css/main.bdaaa2c0.css",
+    "main.js": "/NorySokny.github.io/static/js/main.662229bc.js",
+    "static/media/logo.svg": "/NorySokny.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NorySokny.github.io/index.html",
-    "main.e6c13ad2.css.map": "/NorySokny.github.io/static/css/main.e6c13ad2.css.map",
-    "main.c451e7ea.js.map": "/NorySokny.github.io/static/js/main.c451e7ea.js.map"
+    "main.bdaaa2c0.css.map": "/NorySokny.github.io/static/css/main.bdaaa2c0.css.map",
+    "main.662229bc.js.map": "/NorySokny.github.io/static/js/main.662229bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.c451e7ea.js"
+    "static/css/main.bdaaa2c0.css",
+    "static/js/main.662229bc.js"
   ]
 }
